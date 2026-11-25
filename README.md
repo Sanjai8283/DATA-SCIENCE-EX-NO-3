@@ -200,6 +200,7 @@ plt.show()
 
 
 # Summary :
+The given dataset was successfully loaded and cleaned using Pandas. Feature encoding techniques such as Ordinal Encoding, Label Encoding, Binary Encoding, and One-Hot Encoding were applied to convert categorical data into numerical values. Data transformation techniques, including Log, Reciprocal, Square Root, Square, Box-Cox, and Yeo-Johnson, were used to handle data skewness. Quantile Transformation and Q-Q plots were also used to analyse the data distribution. Finally, the processed data was saved successfully.
 
 
 # RESULT:
