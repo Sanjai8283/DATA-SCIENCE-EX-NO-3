@@ -43,7 +43,14 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+import pandas as pd 
+df=pd.read_csv("Encoding Data.csv") 
+df
+<img width="275" height="283" alt="image" src="https://github.com/user-attachments/assets/bb17cb90-0d86-4c41-9a2f-fb3073c80cf1" />
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
